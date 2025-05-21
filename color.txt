@@ -1,1 +1,6 @@
-
+315deg, #ffffff 0%, #d7e1ec 74%
+facebook #426782
+Instagram #E1306C
+Youtube #ff0000
+Twitter #1DA1F2
+Linkedin #0a66c2
